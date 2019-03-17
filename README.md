@@ -1,187 +1,187 @@
 # Android 内置存储卡(/sdcard/)各个文件夹功能说明
 
-.0102安卓市场下载文件夹
-.FileExpert 文件大师相关文件夹
-.QQ QQ的缓存文件
-.SohuNewsCache 搜狐新闻的缓存文件夹，之间看过的电子报纸都保存在这里。
-.SohuNewsCache 搜狐新闻缓存文件夹
-.android_secure 官方app2sd的产物，删了之后装到sd卡中的软件就无法使用了
-.antutu 安兔兔评测缓存文件
-.dataviz Document to Go缓存文件
-.estrongs ES文件浏览器文件夹
-.gomarket 安智市场缓存文件
-.icmweather 爱酷天气缓存文件
-.maikulog 麦库记事的日志文件
-.mobo Moboplayer的缓存文件
-.mymoney 随手记缓存文件夹
-.nanopage 蘑菇新闻缓存文件夹
-.qqpb QQ通讯录的缓存文件夹。
-.quickoffice 顾名思义，quickoffice的缓存文件。
-.switchpro 七键开关缓存文件
-.switchpro 顾名思义，switchprowidget（多键开关)的缓存文件。
-.thumbnails 图片的缩略图缓存
-.ucdlres 顾名思义，UC迅雷的缓存文件。
-.zdclock 正点闹钟的缓存文件
-360 360的缓存文件夹，360本地备份的短信、联系人也在这里。
-360launcher 360手机桌面的主题文件夹
-365riliDownload 365日历的下载文件夹
-8684 8684公交相关文件
-8684train 8684火车文件夹
-91Calendar 91黄历天气的缓存文件
-91PandaReader 91熊猫看书文件夹
-Android 里面是一些程序数据，比如google map的地图缓存
-AndroidOptimizer 安卓优化大师的相关文件
-BaiduMap 百度地图文件夹
-BaiduMapSdk 百度的离线地图文件夹
-BlueDict 深蓝词典文件夹
-Camera360 相机360的缓存文件
-Contact 导出到SD卡的联系人备份文件
-DCIM 相机文件夹
-DUOMI 多米音乐相关文件夹
-DX-Theme 点心桌面文件夹
-DolphinBrowserCN 海豚浏览器的数据文件夹
-DopoolTV 手机电视文件夹
-DunDef 地牢守护者的数据包。
-GOLauncherEX GO桌面的缓存文件夹
-GOSMS Go短信相关文件夹
-Glu Glu系列游戏的资料包存放地。如3D猎鹿人等。
-HiDroid_Net 海卓APN的数据文件。
-HuaweiBackup 全备份的相关文件夹
-KingReader 开卷有益文件夹
-KingsoftOffice 金山WPS Office文件夹
-KuwoMusic 酷我音乐播放器的相关文件夹
-LOST.DIR 卡上丢失或出错的文件会跑这里
-LazyList Applanet （黑市场）的缓存目录，也许和其他程序也有关，暂时不太清楚
-MTXX 美图秀秀缓存文件夹
-MXNavi 美行手机导航文件夹
-Manle 掌上药店文件夹
-Mcdonalds 手机里的Mcdonalds软件的缓存，删除后，软件要重新联网下载才能使用。
-MoScreenComic 魔屏动漫的缓存目录。
-MusicFolders poweramp产生的缓存文件夹。
-MxBrowser 傲游浏览器相关文件夹
-My Kanbox 酷盘的缓存文件夹
-NaviOne 凯立德导航文件夹
-PandaHome2 91熊猫桌面文件夹
-PandaSpace 91手机助手文件夹
-Photaf 3D全景照相机Photaf的文件夹
-Picstore 图片浏览软件建立的一个目录。
-Playlists 播放列表的缓存文件夹。
-PocoCamera poco相机的数据文件夹
-QIYIVideo 奇艺影视文件夹
-QQBrowser QQ浏览器文件夹
-QQReader QQ阅读文件夹
-QQSecureDownload 手机QQ管家文件夹
-Qzone QQ空间缓存目录
-RMS ireader的缓存文件夹
-Remword 云词的缓存文件夹，包括单词、读音、图片的缓存。离线词库也放到这里。
-Richpad 趣味涂鸦文件夹
-ShootMe 顾名思义，shootme截屏后图片文件保存的目录。
-SipCalendar 佐佐日历的数据文件夹
-SmartHome 安卓桌面文件夹
-SmartpixGames Smartpix Games出品游戏的缓存文件夹，比如Jewellust
-SpeedSoftware RE文件管理器的数据文件夹
-SystemAppBackup SystemApp remove（深度卸载）备份系统文件后，备份文件保存的目录。
-TalkingFriends talking tom （会说话的tom猫）录制的视频文件所保存的目录
-TianQiTong 天气通相关文件夹
-TitaniumBackup 顾名思义，钛备份备份的程序所保存的目录。
-Tuding 一个插件图钉的。
-UCDLFiles UC迅雷下载文件的保存目录。
-UCDownloads UC浏览器的下载文件夹
-UCMobileConfig UC浏览器配置文件夹
-UCam UCam全能相机文件夹
-VIE Vignette （晕影相机）的缓存目录。
-VPN 顾名思义，VPN数据的缓存目录。
-Vlingdi 微领地拍照目录
-Youdao 有道数据文件夹
-Youni_Downloads Youni短信下载文件夹
-albumart 音乐专辑封面的缓存文件夹。
-albums 相册缩略图的缓存文件夹。
-androidesk 安卓壁纸文件夹
-apadqq-images QQ for pad 的缓存目录。
-autonavi 高德地图的缓存文件
-backups 一些备份文件，比如联系人导出到SD卡时会导入到此文件夹
-baidu 掌上百度相关文件夹
-baidu_wallpaper 百度壁纸文件夹
-baidumap 百度地图的缓存文件夹，离线地图也放到这里。
-baidunews 百度新闻文件夹
-baofeng 暴风影音相关文件夹
-bluetooth 蓝牙接收文件夹
-bugreports 记录bug的文件夹
-bugtogo 系统出现问题的时候会形成一些报告文件，存放于此文件夹。
-byread 百阅文件夹
-cmp 个人初步判断是音乐的缓存文件夹。
-com.anguanjia.safe 安全管家文件夹
-data 同样是缓存数据的文件夹，与Android性质类似
-documents Documents To Go的样本的文件夹
-download 欧朋浏览器下载文件夹
-drocap 截图软件
-dxy 用药助手文件夹
-ecp 翼聊的数据文件夹
-enavi 天翼导航缓存文件
-etouch 中华万年历数据文件
-extracted androzip等解压缩软件默认的解压目录。
-freenote 随手写数据文件夹
-freenote_temp 随手写临时文件
-gameloft 顾名思义，gameloft游戏数据包存放的文件夹。
-gfan 机锋市场相关文件
-gobook GGbook的缓存文件夹。
-goweather Go天气的相关背景视频
-goweatherlog Go天气日志文件夹
-handcent 顾名思义handcent（超级短信）数据文件夹。
-handyCurrency 货币汇率相关的文件夹，装了handycalc（科学计算器）之后才会有
-hjapp 沪江小D文件夹
-hugh.android 新华字典的数据文件夹
-iMusicBox 爱音乐客户端缓存文件
-ireader ireader的数据文件夹
-itoo 壁纸管家的相关文件夹
-jiasoft 安卓读书文件夹
-kascend 开讯视频的缓存文件
-kugou 酷狗音乐的相关文件夹
-letao2 乐淘烦人的东西
-maiku 麦库记事的缓存文件夹
-mapbar 图吧地图文件夹
-mbook 掌上书院文件夹
-mhc 手机里装了偷拍软件后，偷拍后的文件就在这里。
-moji 墨迹天气的缓存文件夹
-mosecurity 金山手机卫士文件夹
-msf 一个保存索引文件的文件夹，删除了也会自动生成的。
-mumayi 木蚂蚁市场
-navidog 导航犬文件夹
-ndcommplatform 91公司的相关文件夹
-netease 网易新闻文件夹
-noteeverything 记事软件noteeverything的缓存和数据文件保存目录。
-openfeint 顾名思义，openfeint的缓存文件夹。
-opera 欧朋浏览器的数据文件夹
-playerpro 好评最多的音乐播放器
-reeNote 桌面标签记事，一款手写记事本软件，也支持打字输入！
-renren 顾名思义，人人网客户端的缓存文件夹。
-safeMgrDownload 安全管家下载文件夹
-screenshot 貌似是截屏图片保存的目录，不过我不记得自己装过screenshot这个软件。
-sfreader 天翼阅读相关文件夹
-sgsupdate 三国杀的升级文件安装包。
-shuqi 书旗免费小说文件夹
-sina 新浪相关软件的缓存文件夹，多指微薄
-snda 盛大的相关文件夹
-sogou 搜狗拼音输入法相关文件
-tencent 腾讯软件的相关文件夹
-tigermap 老虎地图文件夹
-ttpod 天天动听缓存文件
-tudoucache 土豆视频缓存文件夹
-ucplayer UC影音
-uunavi 悠悠手机导航文件夹
-vancl 凡客
-viva2 VIVA报刊亭相关文件
-wacai 挖财文件夹
-wandoujia 豌豆荚相关文件夹
-wowfish 捕鱼之海底捞游戏截图保存目录。
-wuba 58同城缓存文件
-xPiano 钢琴模拟软件的缓存文件。
-yd_historys 有道词典搜索历史的缓存目录。
-yd_speech 有道词典单词发音的缓存目录
-youlu 友录通讯录相关文件夹
-youmicache 悠米广告的缓存目录，广告内嵌在其他程序中，删掉后还会自动生成
-youni Youni短信相关文件夹
-yybackup yy备份文件夹
-zft 资费通数据文件夹
-zolimagecache 中关村在线客户端的缓存文件夹。
-天涯 掌中天涯缓存文件
+* .0102安卓市场下载文件夹
+* .FileExpert 文件大师相关文件夹
+* .QQ QQ的缓存文件
+* .SohuNewsCache 搜狐新闻的缓存文件夹，之间看过的电子报纸都保存在这里。
+* .SohuNewsCache 搜狐新闻缓存文件夹
+* .android_secure 官方app2sd的产物，删了之后装到sd卡中的软件就无法使用了
+* .antutu 安兔兔评测缓存文件
+* .dataviz Document to Go缓存文件
+* .estrongs ES文件浏览器文件夹
+* .gomarket 安智市场缓存文件
+* .icmweather 爱酷天气缓存文件
+* .maikulog 麦库记事的日志文件
+* .mobo Moboplayer的缓存文件
+* .mymoney 随手记缓存文件夹
+* .nanopage 蘑菇新闻缓存文件夹
+* .qqpb QQ通讯录的缓存文件夹。
+* .quickoffice 顾名思义，quickoffice的缓存文件。
+* .switchpro 七键开关缓存文件
+* .switchpro 顾名思义，switchprowidget（多键开关)的缓存文件。
+* .thumbnails 图片的缩略图缓存
+* .ucdlres 顾名思义，UC迅雷的缓存文件。
+* .zdclock 正点闹钟的缓存文件
+* 360 360的缓存文件夹，360本地备份的短信、联系人也在这里。
+* 360launcher 360手机桌面的主题文件夹
+* 365riliDownload 365日历的下载文件夹
+* 8684 8684公交相关文件
+* 8684train 8684火车文件夹
+* 91Calendar 91黄历天气的缓存文件
+* 91PandaReader 91熊猫看书文件夹
+* Android 里面是一些程序数据，比如google map的地图缓存
+* AndroidOptimizer 安卓优化大师的相关文件
+* BaiduMap 百度地图文件夹
+* BaiduMapSdk 百度的离线地图文件夹
+* BlueDict 深蓝词典文件夹
+* Camera360 相机360的缓存文件
+* Contact 导出到SD卡的联系人备份文件
+* DCIM 相机文件夹
+* DUOMI 多米音乐相关文件夹
+* DX-Theme 点心桌面文件夹
+* DolphinBrowserCN 海豚浏览器的数据文件夹
+* DopoolTV 手机电视文件夹
+* DunDef 地牢守护者的数据包。
+* GOLauncherEX GO桌面的缓存文件夹
+* GOSMS Go短信相关文件夹
+* Glu Glu系列游戏的资料包存放地。如3D猎鹿人等。
+* HiDroid_Net 海卓APN的数据文件。
+* HuaweiBackup 全备份的相关文件夹
+* KingReader 开卷有益文件夹
+* KingsoftOffice 金山WPS Office文件夹
+* KuwoMusic 酷我音乐播放器的相关文件夹
+* LOST.DIR 卡上丢失或出错的文件会跑这里
+* LazyList Applanet （黑市场）的缓存目录，也许和其他程序也有关，暂时不太清楚
+* MTXX 美图秀秀缓存文件夹
+* MXNavi 美行手机导航文件夹
+* Manle 掌上药店文件夹
+* Mcdonalds 手机里的Mcdonalds软件的缓存，删除后，软件要重新联网下载才能使用。
+* MoScreenComic 魔屏动漫的缓存目录。
+* MusicFolders poweramp产生的缓存文件夹。
+* MxBrowser 傲游浏览器相关文件夹
+* My Kanbox 酷盘的缓存文件夹
+* NaviOne 凯立德导航文件夹
+* PandaHome2 91熊猫桌面文件夹
+* PandaSpace 91手机助手文件夹
+* Photaf 3D全景照相机Photaf的文件夹
+* Picstore 图片浏览软件建立的一个目录。
+* Playlists 播放列表的缓存文件夹。
+* PocoCamera poco相机的数据文件夹
+* QIYIVideo 奇艺影视文件夹
+* QQBrowser QQ浏览器文件夹
+* QQReader QQ阅读文件夹
+* QQSecureDownload 手机QQ管家文件夹
+* Qzone QQ空间缓存目录
+* RMS ireader的缓存文件夹
+* Remword 云词的缓存文件夹，包括单词、读音、图片的缓存。离线词库也放到这里。
+* Richpad 趣味涂鸦文件夹
+* ShootMe 顾名思义，shootme截屏后图片文件保存的目录。
+* SipCalendar 佐佐日历的数据文件夹
+* SmartHome 安卓桌面文件夹
+* SmartpixGames Smartpix Games出品游戏的缓存文件夹，比如Jewellust
+* SpeedSoftware RE文件管理器的数据文件夹
+* SystemAppBackup SystemApp remove（深度卸载）备份系统文件后，备份文件保存的目录。
+* TalkingFriends talking tom （会说话的tom猫）录制的视频文件所保存的目录
+* TianQiTong 天气通相关文件夹
+* TitaniumBackup 顾名思义，钛备份备份的程序所保存的目录。
+* Tuding 一个插件图钉的。
+* UCDLFiles UC迅雷下载文件的保存目录。
+* UCDownloads UC浏览器的下载文件夹
+* UCMobileConfig UC浏览器配置文件夹
+* UCam UCam全能相机文件夹
+* VIE Vignette （晕影相机）的缓存目录。
+* VPN 顾名思义，VPN数据的缓存目录。
+* Vlingdi 微领地拍照目录
+* Youdao 有道数据文件夹
+* Youni_Downloads Youni短信下载文件夹
+* albumart 音乐专辑封面的缓存文件夹。
+* albums 相册缩略图的缓存文件夹。
+* androidesk 安卓壁纸文件夹
+* apadqq-images QQ for pad 的缓存目录。
+* autonavi 高德地图的缓存文件
+* backups 一些备份文件，比如联系人导出到SD卡时会导入到此文件夹
+* baidu 掌上百度相关文件夹
+* baidu_wallpaper 百度壁纸文件夹
+* baidumap 百度地图的缓存文件夹，离线地图也放到这里。
+* baidunews 百度新闻文件夹
+* baofeng 暴风影音相关文件夹
+* bluetooth 蓝牙接收文件夹
+* bugreports 记录bug的文件夹
+* bugtogo 系统出现问题的时候会形成一些报告文件，存放于此文件夹。
+* byread 百阅文件夹
+* cmp 个人初步判断是音乐的缓存文件夹。
+* com.anguanjia.safe 安全管家文件夹
+* data 同样是缓存数据的文件夹，与Android性质类似
+* documents Documents To Go的样本的文件夹
+* download 欧朋浏览器下载文件夹
+* drocap 截图软件
+* dxy 用药助手文件夹
+* ecp 翼聊的数据文件夹
+* enavi 天翼导航缓存文件
+* etouch 中华万年历数据文件
+* extracted androzip等解压缩软件默认的解压目录。
+* freenote 随手写数据文件夹
+* freenote_temp 随手写临时文件
+* gameloft 顾名思义，gameloft游戏数据包存放的文件夹。
+* gfan 机锋市场相关文件
+* gobook GGbook的缓存文件夹。
+* goweather Go天气的相关背景视频
+* goweatherlog Go天气日志文件夹
+* handcent 顾名思义handcent（超级短信）数据文件夹。
+* handyCurrency 货币汇率相关的文件夹，装了handycalc（科学计算器）之后才会有
+* hjapp 沪江小D文件夹
+* hugh.android 新华字典的数据文件夹
+* iMusicBox 爱音乐客户端缓存文件
+* ireader ireader的数据文件夹
+* itoo 壁纸管家的相关文件夹
+* jiasoft 安卓读书文件夹
+* kascend 开讯视频的缓存文件
+* kugou 酷狗音乐的相关文件夹
+* letao2 乐淘烦人的东西
+* maiku 麦库记事的缓存文件夹
+* mapbar 图吧地图文件夹
+* mbook 掌上书院文件夹
+* mhc 手机里装了偷拍软件后，偷拍后的文件就在这里。
+* moji 墨迹天气的缓存文件夹
+* mosecurity 金山手机卫士文件夹
+* msf 一个保存索引文件的文件夹，删除了也会自动生成的。
+* mumayi 木蚂蚁市场
+* navidog 导航犬文件夹
+* ndcommplatform 91公司的相关文件夹
+* netease 网易新闻文件夹
+* noteeverything 记事软件noteeverything的缓存和数据文件保存目录。
+* openfeint 顾名思义，openfeint的缓存文件夹。
+* opera 欧朋浏览器的数据文件夹
+* playerpro 好评最多的音乐播放器
+* reeNote 桌面标签记事，一款手写记事本软件，也支持打字输入！
+* renren 顾名思义，人人网客户端的缓存文件夹。
+* safeMgrDownload 安全管家下载文件夹
+* screenshot 貌似是截屏图片保存的目录，不过我不记得自己装过screenshot这个软件。
+* sfreader 天翼阅读相关文件夹
+* sgsupdate 三国杀的升级文件安装包。
+* shuqi 书旗免费小说文件夹
+* sina 新浪相关软件的缓存文件夹，多指微薄
+* snda 盛大的相关文件夹
+* sogou 搜狗拼音输入法相关文件
+* tencent 腾讯软件的相关文件夹
+* tigermap 老虎地图文件夹
+* ttpod 天天动听缓存文件
+* tudoucache 土豆视频缓存文件夹
+* ucplayer UC影音
+* uunavi 悠悠手机导航文件夹
+* vancl 凡客
+* viva2 VIVA报刊亭相关文件
+* wacai 挖财文件夹
+* wandoujia 豌豆荚相关文件夹
+* wowfish 捕鱼之海底捞游戏截图保存目录。
+* wuba 58同城缓存文件
+* xPiano 钢琴模拟软件的缓存文件。
+* yd_historys 有道词典搜索历史的缓存目录。
+* yd_speech 有道词典单词发音的缓存目录
+* youlu 友录通讯录相关文件夹
+* youmicache 悠米广告的缓存目录，广告内嵌在其他程序中，删掉后还会自动生成
+* youni Youni短信相关文件夹
+* yybackup yy备份文件夹
+* zft 资费通数据文件夹
+* zolimagecache 中关村在线客户端的缓存文件夹。
+* 天涯 掌中天涯缓存文件
